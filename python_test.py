@@ -8,3 +8,4 @@ finally:
     print("EXITING SYSTEM")
     
 print(1+2)
+print(3+4)
